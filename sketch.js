@@ -73,7 +73,7 @@ function draw() {
         }
 
         //display the text "Happy New Years!" and set the clock to 0
-        displayText2(message2, "새해복 많이 받으세요!", 150, 0, 0, 0, 255, 255, 255, 350, 550)
+        displayText(message2, "새해복 많이 받으세요!", 150, 0, 0, 0, 255, 255, 255, 350, 550)
     }
 
     //if it's not new year, run this:
